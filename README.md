@@ -3,7 +3,7 @@
 🎓 **Final Year Software Engineering Student** | 🏫 **African Leadership University, Kigali, Rwanda** 
 
 
-🌍 **From Nigeria!
+🌍 **From Nigeria!**
 ** | 🤖 **Machine Learning & AI Enthusiast**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaiah-Essien&show_icons=true&theme=radical)
