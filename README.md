@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Isaiah Essien! You can call me Bobo
 
+![PandaLoveGIF](https://github.com/user-attachments/assets/8aa08191-e01a-4fc3-af24-1a7b740bf1f8)
+
+
 🎓 **Final Year Software Engineering Student** | 🏫 **African Leadership University, Kigali, Rwanda** 
 
 
 🌍 **From Nigeria!**
-** | 🤖 **Machine Learning & AI Enthusiast**  
+| 🤖 **Machine Learning & AI Enthusiast**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaiah-Essien&show_icons=true&theme=radical)
 
@@ -77,4 +80,5 @@ I specialize in **Machine Learning & Artificial Intelligence**, with key researc
 ---
 
 ⭐ **"Building Solutions for Africa first."** 🚀
-[NigeriaMovingGIF](https://github.com/user-attachments/assets/cbebfbe3-1a9f-49ce-93fa-2bfae6e71f22)
+![PrayForNigeriaGIF](https://github.com/user-attachments/assets/3a27f27b-97d0-451d-b842-e1216675ecac)
+
